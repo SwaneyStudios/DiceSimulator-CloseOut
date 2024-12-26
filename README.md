@@ -42,12 +42,14 @@ The simulator compares four different strategies:
 ## Usage
 
 To run the basic simulation:
-python
+```bash
 python simulation.py
+```
 
 To debug a single game with detailed output:
-python
+```bash
 python simulation_debug.py
+```
 
 
 ## Project Structure
