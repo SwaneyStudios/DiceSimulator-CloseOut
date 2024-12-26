@@ -71,3 +71,7 @@ This tool is useful for:
 - Testing and comparing different strategies
 - Identifying optimal play patterns
 - Analyzing game balance and mechanics
+
+## Author
+**Mitchell Swaney**
+- GitHub: [@SwaneyStudios](https://github.com/SwaneyStudios)
